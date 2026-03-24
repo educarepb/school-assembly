@@ -38,3 +38,23 @@
     }
   ]
 }
+{
+  "quotesList": [ ... ],
+  "englishWordsList": [ ... ],
+  "punjabiWordsList": [
+    { 
+      "word": "ਹਮਦਰਦੀ", 
+      "pronunciation": "Hamdardi", 
+      "en": { "meaning": "Sympathy or compassion for others.", "usage": "We should show empathy towards the poor." }, 
+      "pa": { "meaning": "ਦੂਜਿਆਂ ਦਾ ਦੁੱਖ ਸਮਝਣ ਦੀ ਭਾਵਨਾ।", "usage": "ਸਾਨੂੰ ਗਰੀਬਾਂ ਪ੍ਰਤੀ ਹਮਦਰਦੀ ਦਿਖਾਉਣੀ ਚਾਹੀਦੀ ਹੈ।" } 
+    }
+  ],
+  "techWordsList": [ ... ],
+  "cyberTipsList": [
+    { 
+      "en": { "title": "Create Strong Passwords", "description": "Use a mix of uppercase letters, lowercase letters, numbers, and symbols. Never use your name or date of birth as a password." }, 
+      "pa": { "title": "ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਬਣਾਓ", "description": "ਵੱਡੇ ਅੱਖਰਾਂ, ਛੋਟੇ ਅੱਖਰਾਂ, ਨੰਬਰਾਂ ਅਤੇ ਪ੍ਰਤੀਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਕਦੇ ਵੀ ਆਪਣੇ ਨਾਮ ਜਾਂ ਜਨਮ ਮਿਤੀ ਨੂੰ ਪਾਸਵਰਡ ਵਜੋਂ ਨਾ ਵਰਤੋ।" } 
+    }
+  ],
+  "newsHeadlines": [ ... ]
+}
