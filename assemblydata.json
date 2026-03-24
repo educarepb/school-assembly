@@ -1,0 +1,40 @@
+{
+  "quotesList": [
+    {
+      "en": { "text": "Education is the most powerful weapon which you can use to change the world.", "author": "Nelson Mandela" },
+      "pa": { "text": "ਸਿੱਖਿਆ ਸਭ ਤੋਂ ਸ਼ਕਤੀਸ਼ਾਲੀ ਹਥਿਆਰ ਹੈ ਜਿਸਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਸੀਂ ਦੁਨੀਆ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।", "author": "ਨੈਲਸਨ ਮੰਡੇਲਾ" }
+    },
+    {
+      "en": { "text": "The beautiful thing about learning is that no one can take it away from you.", "author": "B.B. King" },
+      "pa": { "text": "ਸਿੱਖਣ ਬਾਰੇ ਸਭ ਤੋਂ ਖੂਬਸੂਰਤ ਗੱਲ ਇਹ ਹੈ ਕਿ ਕੋਈ ਵੀ ਇਸਨੂੰ ਤੁਹਾਡੇ ਤੋਂ ਖੋਹ ਨਹੀਂ ਸਕਦਾ।", "author": "ਬੀ.ਬੀ. ਕਿੰਗ" }
+    }
+  ],
+  "englishWordsList": [
+    {
+      "word": "Discipline",
+      "pronunciation": "/ˈdɪsəplɪn/",
+      "en": { "meaning": "The practice of training people to obey rules or a code of behavior.", "usage": "Students must maintain discipline in the classroom." },
+      "pa": { "meaning": "ਨਿਯਮਾਂ ਜਾਂ ਵਿਹਾਰ ਦੇ ਜ਼ਾਬਤੇ ਦੀ ਪਾਲਣਾ ਕਰਨ ਦੀ ਆਦਤ; ਅਨੁਸ਼ਾਸਨ।", "usage": "ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਕਲਾਸ ਵਿੱਚ ਅਨੁਸ਼ਾਸਨ ਬਣਾਈ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।" }
+    }
+  ],
+  "techWordsList": [
+    {
+      "word": "Internet",
+      "fullForm": "Interconnected Network",
+      "en": { "meaning": "A global computer network providing a variety of information and communication facilities.", "usage": "Students use the internet to research for their school projects." },
+      "pa": { "meaning": "ਜਾਣਕਾਰੀ ਅਤੇ ਸੰਚਾਰ ਸਹੂਲਤਾਂ ਪ੍ਰਦਾਨ ਕਰਨ ਵਾਲਾ ਗਲੋਬਲ ਕੰਪਿਊਟਰ ਨੈੱਟਵਰਕ; ਇੰਟਰਨੈੱਟ।", "usage": "ਵਿਦਿਆਰਥੀ ਆਪਣੇ ਸਕੂਲ ਦੇ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਖੋਜ ਕਰਨ ਲਈ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ।" }
+    }
+  ],
+  "newsHeadlines": [
+    {
+      "category": { "en": "National", "pa": "ਰਾਸ਼ਟਰੀ" },
+      "en": "Central Government launches a new nationwide digital literacy program for rural schools.",
+      "pa": "ਕੇਂਦਰ ਸਰਕਾਰ ਨੇ ਪੇਂਡੂ ਸਕੂਲਾਂ ਲਈ ਦੇਸ਼ ਵਿਆਪੀ ਡਿਜੀਟਲ ਸਾਖਰਤਾ ਪ੍ਰੋਗਰਾਮ ਸ਼ੁਰੂ ਕੀਤਾ।"
+    },
+    {
+      "category": { "en": "Sports", "pa": "ਖੇਡਾਂ" },
+      "en": "School athletics captain breaks the state record in the 100-meter sprint.",
+      "pa": "ਸਕੂਲ ਦੇ ਅਥਲੈਟਿਕਸ ਕਪਤਾਨ ਨੇ 100 ਮੀਟਰ ਦੌੜ ਵਿੱਚ ਸਟੇਟ ਰਿਕਾਰਡ ਤੋੜਿਆ।"
+    }
+  ]
+}
